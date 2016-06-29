@@ -18,3 +18,6 @@ using [Google Maps Geolocation API](https://developers.google.com/maps/documenta
 
 Display Google Maps in Chrome Brawser <br/>
 <img src="https://github.com/ohwada/geo_wifi/blob/master/geo_wifi.png" width="300" /> <br/>
+
+### Blog (Japanese)
+http://android.ohwada.jp/archives/7037
